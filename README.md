@@ -1,7 +1,7 @@
 # Trumps
 4 players needed
 
-Trumps is a fun partner vs partner game that influences competition and cooperation. It only requires 4 players and a standard deck of 52 cards. Trumps is similar to the known game of Spades but with the capabilities of changing the power that "Spades" hold in that game onto another suits by player choice. It allows players and teams to be strategic in how they play their hands and allows for flexibility in suits that Spades did not give.
+Trumps is a fun partner vs partner game that influences competition and cooperation. It only requires 4 players and a standard deck of 52 cards. Trumps is similar to the known game of Spades but with the capabilities of changing the power that "Spades" hold in that game onto another suits by player choice. It allows players and teams to be strategic in how they play their hands and allows for flexibility in suits that Spades did not give. I have taken the challenge on trying to implement this in a unity design framework
 
 ## Setup
 
