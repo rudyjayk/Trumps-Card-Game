@@ -8,6 +8,7 @@ Trumps is a fun partner vs partner game that influences competition and cooperat
 1. This card game can be played with a standard deck of 52 cards and also be played including jokers as well.
 2. For setup, It requires only 4 players, the designated dealer deals the deck of cards in a clockwise fashion while leaving 4 cards(6 if played with jokers) on the side away from the 4 players hands.
 3. Once each person has received a hand of cards the bidding process starts to see who receives the "Kitty" (which is the 4 cards (or 6) that was put on the side). 
+4. Players are able to look at their cards once they receive them.
 5. The bidding process goes like this:
 - Left of dealer starts the bidding process
 - Players are able to bid any number less than 8.
